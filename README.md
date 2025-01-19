@@ -5,11 +5,7 @@ Welcome to **Thrift Store**, a modern and stylish online thrift shop built using
 ## 🚀 Features
 
 - 🌟 **Sleek & Responsive UI** – Optimized for all screen sizes.
-- 🛒 **Shopping Cart** – Add and remove items dynamically.
-- 🔍 **Search & Filtering** – Easily find the perfect thrifted piece.
 - 🎨 **Modern Design** – Clean and aesthetic visuals.
-- ⚡ **Smooth Animations** – Interactive user experience with JavaScript.
-- 🌍 **Sustainable Shopping** – Encourages eco-friendly fashion choices.
 
 ## 📸 Preview
 
@@ -33,12 +29,6 @@ Welcome to **Thrift Store**, a modern and stylish online thrift shop built using
    ```
 3. Open `index.html` in your browser.
 
-## 📌 To-Do
-
-- [ ] Implement backend with Node.js & MongoDB.
-- [ ] Add a user authentication system.
-- [ ] Integrate a payment gateway.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
@@ -49,5 +39,5 @@ This project is licensed under the MIT License.
 
 ---
 
-💡 _Follow me on [GitHub](https://github.com/yourusername) for more cool projects!_ 🚀
+💡 _Follow me on [GitHub](https://github.com/moin) for more cool projects!_ 🚀
 
