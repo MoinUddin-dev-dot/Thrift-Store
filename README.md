@@ -9,7 +9,7 @@ Welcome to **Thrift Store**, a modern and stylish online thrift shop built using
 
 ## 📸 Preview
 
-![Thrift Store Preview](link-to-screenshot.png)
+![Thrift Store Preview](https://github.com/MoinUddin-dev-dot/Thrift-Store/blob/main/assets/preview.png)
 
 ## 🛠️ Tech Stack
 
